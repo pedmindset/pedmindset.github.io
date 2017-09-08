@@ -23,7 +23,13 @@ Create a github repository and from that create a github page
 
 Add additional notes about how to deploy this on a live system
 
+## Educational Background
 
+YEAR | SCHOOL
+-----|-------
+2006 - 2009 | Nungua Senior High
+2011 - 2015 | Univesity of Development Studies
+2017 - Date | Mest
 
 
 ## Authors
