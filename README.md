@@ -1,5 +1,4 @@
 # pedmindset.github.io
-# pedmindset.github.io
 
 # EIT's Github Pages
 
