@@ -36,7 +36,7 @@ YEAR | SCHOOL
 
 * **Emmanuel Oduro** - *Initial work* - [PurpleBooth](https://github.com/pedmindset)
 
-I am a MEST:star: of :earth_africa: We believe in the Impossible :blush:
+I am a MEST :star:  I believe in the world  :earth_africa:  We believe in the Impossible :blush:
 
 ## License
 
