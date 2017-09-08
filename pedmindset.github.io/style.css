@@ -1,0 +1,317 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0;
+	margin-bottom: 0;
+	width: 100%;
+	float: left;
+}
+ 
+
+.cover{
+	background: url(images/emma_bg2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	min-height: 800px;
+	
+}
+
+#header{
+	background: url(images/emma_bg3.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 800px;
+	width: 100%;
+	float: left;
+	clear: both;
+}
+
+#nav {
+	min-height: 60px;
+	float: right;
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+	width: auto;
+}
+
+
+#nav ul {
+	display: inline;
+}
+#nav ul li {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color: rgba(255,255,255,1);
+	display: inline;
+	font-size: 17px;
+}
+
+/* unvisited link */
+#nav ul li  a:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+#nav ul li a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#nav ul li a:hover {
+    color: hotpink;
+    text-decoration: none;
+}
+
+/* selected link */
+#nav ul li a:active {
+    color: blue;
+    text-decoration: none;
+}
+#welcome_message {
+	padding: 10px;
+	float: left;
+	height: auto;
+	width: auto;
+	margin-top: 200PX;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	margin-left: 10%;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 50px;
+	color: rgba(255,255,255,1.00);
+}
+#one {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	padding-top: 3%;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 3%;
+	height: 170px;
+	width: 100%;
+	background-color: rgba(7,7,7,1.00);
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 50%, 0 99%);
+	clip-path: polygon(0 0, 100% 0, 100% 50%, 0 99%);
+	float: left;
+	clear: both;
+}
+#first_content {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	margin-top: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	float: left;
+	height: auto;
+	width: auto;
+}
+#two {
+	height: auto;
+	width: 80%;
+	padding-top: 0px;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0px;
+	margin-bottom: 0%;
+	background-color: rgba(255,255,255,1.00);
+	float: left;
+	clear: left;
+}
+
+.small_heading {
+	font-size: 14px;
+}
+#second_content {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: rgba(0,0,0,1);
+	background-color: rgba(255,255,255,1);
+	padding: 5px;
+}
+#three {
+	background: url(images/emma_sliced_power_2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 800px;
+	width: 100%;
+	float: left;
+	clear: both;
+}
+#content_three {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+	height: auto;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 10%;
+}
+#four {
+	background-color: rgba(255,0,228,1);
+	margin: 0px;
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-bottom: 5%;
+	float: left;
+	width: 80%;
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 99%, 0 60%);
+	clip-path: polygon(0 0, 100% 0, 100% 99%, 0 60%);
+	float: left;
+	clear: both;
+	height: 100px;
+}
+#content_four {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 24px;
+	color: rgba(255,250,250,1);
+}
+#five {
+	background-color: rgba(255,255,255,1.00);
+	width: 80%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-top: 5%;
+	color: rgba(0,0,0,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+}
+#footer {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-image: url(images/emma_sliced_power.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+	width: 80%;
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	color: rgba(255,255,255,1.00);
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+
+#mest_one {
+	background-image: url(images/white_bg.png);
+	background-repeat: repeat;
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 100%;
+}
+
+#mest_two {
+	background-image: url(images/white_bg.png);
+	background-repeat: repeat;
+	margin-top: 0%;
+	margin-right: 0%;
+	margin-left: 0%;
+	margin-bottom: 0%;
+	float: left;
+	height: auto;
+	width: 100%;
+}
+
+input[type="text"] {
+  display: block;
+  margin: 0;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 18px;
+  appearance: none;
+  box-shadow: none;
+  border-radius: none;
+}
+input[type="text"]:focus {
+  outline: none;
+}
+
+.style-1 input[type="text"] {
+  padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+}
+.style-1 input[type="text"]:focus,
+.style-1 input[type="text"].focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+#side_one {
+	background-color: rgba(0,0,0,1);
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 35%;
+	padding-top: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+	padding-left: 10%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: rgba(227,227,227,1.00);
+	font-size: 17px;
+}
+#side_two {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 50PX;
+	color: rgba(0,0,0,1);
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 35%;
+	padding-top: 20%;
+	padding-right: 10%;
+	padding-bottom: auto;
+	padding-left: 5%;
+}
+
+#mest_footer {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+	background-color: rgba(86,170,214,1);
+	margin: 0px;
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-bottom: 5%;
+	float: left;
+	width: 80%;
+}
+#contact_field {
+	padding-top: 5%;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+	float: left;
+	height: auto;
+	width: 90%;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color: rgba(0,0,0,1.00);
+	font-size: 17px;
+}
